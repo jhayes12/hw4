@@ -2,4 +2,6 @@
 
 ## contributors
 
-- Bob was here second again
+
+- Bob
+- alice
