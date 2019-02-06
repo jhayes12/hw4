@@ -2,4 +2,4 @@
 
 ## contributors
 
-- Alice was here
+- alice
