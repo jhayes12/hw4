@@ -2,4 +2,5 @@
 
 ##Contributors
 
--Alice (Mario)
+i Alice (Mario)
+-Bob (Jacob)
